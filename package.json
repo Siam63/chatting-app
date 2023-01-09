@@ -15,5 +15,13 @@
   "description": "<img      src=\"https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png\"      width=\"75%\"      height=\"100%\" />",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siam63/chatting-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Siam63/chatting-app/issues"
+  },
+  "homepage": "https://github.com/Siam63/chatting-app#readme"
 }
